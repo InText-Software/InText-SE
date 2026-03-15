@@ -12,14 +12,14 @@ personal and educational purposes.
 
 You may not:
 
-a) Use the software for any commercial, professional, or revenue‑generating purposes.
-b) Modify, distribute, sublicense, or create derivative works based on the software.
-c) Reverse engineer, decompile, or disassemble the software.
+a) Use the software for any commercial, professional, or revenue‑generating purposes;
+b) Modify, distribute, sublicense, or create derivative works based on the software;
+c) Reverse engineer, decompile, or disassemble the software; and
 d) Remove or alter any copyright notices, trademarks, or branding associated with the software.
 
 3. Ownership
 
-All rights, title, and interest in and to InText SE, including its code, documentation, and branding, 
+All rights, title, and interest in and to InText™ SE, including its code, documentation, and branding, 
 remain the exclusive property of the author. No ownership rights are transferred under this agreement.
 
 4. Educational Use
