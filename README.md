@@ -19,3 +19,9 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 **Download (for Windows® 64‑bit)** 
 
 
+
+
+
+
+[GitPage](https://intext-software.github.io/InText-SE/)
+
