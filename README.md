@@ -5,7 +5,8 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Intext-SE.InText-SE)
 ![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![License: Personal & Educational](https://img.shields.io/badge/license-Personal%20%26%20Educational-blue.svg)
-![Downloads](https://img.shields.io/github/downloads/Intext-SE/InText-SE/total.svg)
+[![Downloads](https://img.shields.io/github/downloads/InText-Software/InText-SE/total.svg)](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
+
 
 **InText™ SE** Copyright © 2026. All Rights Reserved.
 
@@ -16,10 +17,5 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 
 
 #
-**Download (for Windows® 64‑bit)** 
-
-(Free edition)
-
-
-[GitPage](https://intext-software.github.io/InText-SE/)
+[InText™ SE Lite - For Windows® |  Free Download](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
 
