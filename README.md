@@ -11,7 +11,8 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 **InText™ SE** Copyright © 2026. All Rights Reserved.
 
 
-<img width="711" height="227" alt="install-layouy" src="https://github.com/user-attachments/assets/931ed9c5-fb1a-44b6-bcf5-57cd58f75635" />
+<img width="711" height="249" alt="Banner" src="https://github.com/user-attachments/assets/fad98d7c-7d40-4d08-ac47-ca0c4cc56235" />
+
 
 
 
