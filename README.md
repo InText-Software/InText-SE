@@ -18,7 +18,7 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 
 #
-**InText™ SE _Lite_** is a powerful free toolkit, with common Latin expressions used in everyday legal drafting.
+**InText™ SE _Lite_** is a powerful free toolkit, with common Latin terms and expressions used in everyday legal drafting.
 
 
 **Free Download for Windows®**&nbsp;|&nbsp; [**InText™ SE Lite**](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
