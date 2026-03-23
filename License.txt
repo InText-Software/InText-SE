@@ -36,8 +36,7 @@ without interruption or error.
 6. Limitation of Liability
 
 In no event shall the author be liable for any damages arising out of the use or inability to 
-use the software, including but not limited to loss of data, productivity, or profits, or misrepresentation
-or error and/or any claim for damages thereto, in the software or reliance on any information provided therein.
+use the software, including but not limited to loss of data, productivity, or profits, or misrepresentation or error and/or any claim for damages thereto, in the software or reliance on any information provided therein.
 
 7. Termination
 
