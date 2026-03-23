@@ -18,5 +18,5 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 
 
 #
-[InText™ SE Lite - For Windows® |  Free Download](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
+Download - [InText™ SE Lite - For Windows®](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
 
