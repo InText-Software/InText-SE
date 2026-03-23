@@ -18,5 +18,10 @@ Dictionary of Latin Terms and Maxims in South African Law for Windows®
 
 
 #
-Download - [InText™ SE Lite - For Windows®](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
+**InText™ SE _Lite_** remains a powerful toolkit, with common Latin expressions used in everyday legal drafting.
+
+
+**Free Download**:
+
+[**InText™ SE Lite for Windows®**](https://github.com/InText-Software/InText-SE/releases/download/Download/InTextSELite-Setup.exe)
 
