@@ -4,9 +4,7 @@ License Agreement | March, 2026
 
 1. Grant of License
 
-This software, InText™ SE, is licensed, not sold. By downloading, installing, or using this software, 
-you are granted a limited, non‑exclusive, non‑transferable license to use the software solely for 
-personal and educational purposes.
+This software, InText™ SE, is licensed, not sold. By downloading, installing, or using this software, you are granted a limited, non‑exclusive, non‑transferable license to use the software solely for personal and educational purposes.
 
 2. Restrictions
 
