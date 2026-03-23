@@ -1,5 +1,5 @@
 # InText™ SE  
-Dictionary of Latin Terms and Maxims in South African Law for Windows®
+Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Intext-SE.InText-SE)
