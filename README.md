@@ -1,11 +1,10 @@
-# InText™ SE  
+
+# InText™ SE Lite
 Glossary of Latin Terms and Maxims in South African Law for Windows®
 
+![Hits](https://hits.sh/github.com/InText-Software/InText-SE.svg?color=red)
+![Downloads](https://img.shields.io/github/downloads/InText-Software/InText-SE/Download/total?color=red&label=Current%20Release) 
 
-
-![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue.svg)
-![License: Personal & Educational](https://img.shields.io/badge/license-Personal%20%26%20Educational-blue.svg)
-![GitHub all releases](https://img.shields.io/github/downloads/InText-Software/InText-SE/total?label=Downloads)
 
 
 **InText™ SE**&nbsp; | &nbsp;Copyright © 2026. All Rights Reserved
