@@ -23,7 +23,7 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 #
 ![Hits](https://hits.sh/github.com/InText-Software/InText-SE.svg?color=white)
-![Downloads](https://img.shields.io/github/downloads/InText-Software/InText-SE/Download/total?color=white&label=Current%20Release)   &nbsp;&nbsp;
+&nbsp;&nbsp;
 
 **InText™ SE**&nbsp; | &nbsp;Copyright © 2026. All Rights Reserved
 
