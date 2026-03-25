@@ -14,8 +14,9 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 
 
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/f3366605-afbd-43bc-a623-06c12744e062" />
 
-<img width="711" height="249" alt="Banner" src="https://github.com/user-attachments/assets/fad98d7c-7d40-4d08-ac47-ca0c4cc56235" />
+
 
 
 
