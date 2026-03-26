@@ -9,7 +9,6 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 
 **InText™ SE _Lite_** is a powerful free toolkit, with common Latin terms and expressions used in everyday legal drafting.
-
 #
 
 
