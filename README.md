@@ -1,6 +1,6 @@
 
 # InText™ SE Lite  
-<a href="https://intext-software.github.io/InText-SE/"><img src="https://img.shields.io/badge/Visit%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>  &nbsp; <a href="https://github.com/InText-Software/InText-SE/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github" alt="Download"/></a>
+<a href="https://intext-software.github.io/InText-SE/"><img src="https://img.shields.io/badge/Visit%20Website-D64548?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>  &nbsp; <a href="https://github.com/InText-Software/InText-SE/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-D64548?style=for-the-badge&logo=github" alt="Download"/></a>
 
 
 
