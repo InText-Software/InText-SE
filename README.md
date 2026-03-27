@@ -12,7 +12,8 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 #
 
 
-<img width="1366" height="768" alt="Free Legal Dictionary" src="https://github.com/user-attachments/assets/fe42cf2b-56c5-44fe-8ca6-169631337e15" />
+![InText SE Lite](https://github.com/user-attachments/assets/d72f9b02-cbfb-484e-a43f-36629d869fe5)
+
 
 
 
