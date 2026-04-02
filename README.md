@@ -16,7 +16,8 @@ Glossary of Latin Terms and Maxims in South African Law for Windows®
 
 
 
-![GitHub_Head](https://github.com/user-attachments/assets/523e6d02-5ec3-48a2-af81-6da7161c9831)
+
+![GitHub-Head](https://github.com/user-attachments/assets/91c021c1-22b0-44f5-8b53-555b1b27d171)
 
 
 
