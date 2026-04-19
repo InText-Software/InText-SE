@@ -1,21 +1,21 @@
-InText™ SE
-Glossary of Latin Terms and Maxims in South African Law for Windows®  
+InTextâ„¢ SE
+Glossary of Latin Terms and Maxims in South African Law for WindowsÂ®  
 
-InText™ SE empowers students' and legal practitioners' alike by placing over 1800+ Latin and Roman-Dutch Terms and Maxims at their fingertips. 
-With Clear and Concise Definitions, InText™ SE saves you time drafting legal documents. Simply copy terms to Add in Situ—
+InTextâ„¢ SE empowers students' and legal practitioners' alike by placing over 1800+ Latin and Roman-Dutch Terms and Maxims at their fingertips. 
+With Clear and Concise Definitions, InTextâ„¢ SE saves you time drafting legal documents. Simply copy terms to Add in Situâ€”
 
 Designed for Law
 Its compact design ensures seamless integration into drafting workflows, making it a 100% In-Line Ready companion. 
-By streamlining access to authoritative terminology, InText™ SE saves time and effort, enhances accuracy and supports professional legal writing.
+By streamlining access to authoritative terminology, InTextâ„¢ SE saves time and effort, enhances accuracy and supports professional legal writing.
 
 Seemless Integration
-InText™ SE ensures Latin terms are 100% In-Line Ready and pre-formatted so you can add your term in situ. 
-Draft with confidence—search, copy and paste instantly without the hassle of manual formatting, saving valuable time in legal drafting.
+InTextâ„¢ SE ensures Latin terms are 100% In-Line Ready and pre-formatted so you can add your term in situ. 
+Draft with confidenceâ€”search, copy and paste instantly without the hassle of manual formatting, saving valuable time in legal drafting.
 
-Download InText™ SE Lite
-InText™ SE Lite is a powerful free toolkit, with over 200+ common Latin terms and expressions used in everyday legal drafting.
-Get InText™ SE Lite from GitHub®
+Download InTextâ„¢ SE Lite
+InTextâ„¢ SE Lite is a powerful free toolkit, with over 250+ common Latin terms and expressions used in everyday legal drafting.
+Get InTextâ„¢ SE Lite from GitHubÂ®
 
 https://intext-software.github.io/InText-SE/
 
-InText™ SE  |  Copyright © 2026. All Rights Reserved.
+InTextâ„¢ SE  |  Copyright Â© 2026. All Rights Reserved.
