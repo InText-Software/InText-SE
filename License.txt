@@ -24,7 +24,8 @@ d) Remove or alter any copyright notices, trademarks, or branding associated wit
 
 3. Ownership
 
-All rights, title, and interest in and to InText™ SE Lite, including its code, documentation, and branding, remain the exclusive property of the author. No ownership rights are transferred under this agreement.
+All rights, title, and interest in and to InText™ SE Lite, including its code, documentation, and branding, 
+remain the exclusive property of the author. No ownership rights are transferred under this agreement.
 
 4. Educational Use
 
