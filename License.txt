@@ -6,9 +6,12 @@ License Agreement | (April, 2026)
 
 Any mention to 'Software' hereinafter refers to InText™ SE Lite ONLY.
 
-By downloading, installing, or using the software, you are granted a limited, non‑exclusive, non‑transferable license to use the software solely for personal and educational purposes only. 
+By downloading, installing, or using the software, you are granted a limited, non‑exclusive, 
+non‑transferable licenseto use the software solely for personal and educational purposes only. 
 
-This license is restricted to individual use only. The license does not extend to, and shall not apply to, any enterprise, firm, institution, or other organisational entity in which the end user is affiliated. Transfer, resale, sublicensing, or assignment of this license is strictly prohibited.
+This license is restricted to individual use only. The license does not extend to, and shall not apply to, 
+any enterprise, firm, institution, or other organisational entity in which the end user is affiliated. 
+Transfer, resale, sublicensing, or assignment of this license is strictly prohibited.
 
 2. Restrictions
 
